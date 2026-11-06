@@ -45,7 +45,7 @@ def construir_prompt(nombre=None, ubicacion=None, epoca=None, notas=None):
     if epoca:
         entrada += f" It dates from {epoca}."
 
-    # Cuerpo del promp (igual para todos los monumentos9. Es bastante extenso, 
+    # Cuerpo del prompt (igual para todos los monumentos). Es bastante extenso, 
     # cuanta más informacionn demos más realista será el resultado
     prompt = (
         f"{entrada} "
