@@ -1,0 +1,8 @@
+This photo shows {nombre_monumento}, {lugar}. 
+Create a photorealistic image showing how this monument most likely looked when it was newly built and complete, as an archaeological and historical reconstruction.
+ Use the surviving parts visible in the photo as the ground truth: keep their exact position, proportions, materials and construction style, 
+ and extend them to restore the missing walls, roofs, arches, columns, upper levels and decoration. 
+ Choose the materials, colors, ornamentation and architectural style that are documented for this specific monument, culture and period; do not apply the style of 
+ another civilization or a generic 'ancient' look. Where the historical evidence is uncertain, prefer a sober, plausible solution over invention. 
+ Keep the same camera angle, framing, landscape and sky conditions as the original photo, with natural daylight. 
+ Do not add modern elements, people or text.
